@@ -14,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2942-find-words-containing-character](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
+## Database
+|  |
+| ------- |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/1141-user-activity-for-the-past-30-days-i) |
 <!---LeetCode Topics End-->
