@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2942-find-words-containing-character](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -53,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## Greedy
+|  |
+| ------- |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 <!---LeetCode Topics End-->
