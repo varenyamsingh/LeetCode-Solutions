@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2942-find-words-containing-character](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0409-longest-palindrome](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
+| [3483-unique-3-digit-even-numbers](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Linked List
 |  |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [3483-unique-3-digit-even-numbers](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Math
 |  |
 | ------- |
@@ -120,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
