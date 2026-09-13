@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [3870-count-commas-in-range](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Prefix Sum
@@ -136,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
