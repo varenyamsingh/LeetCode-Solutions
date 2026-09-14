@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/0071-simplify-path) |
+| [0115-distinct-subsequences](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0409-longest-palindrome](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 | [2942-find-words-containing-character](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
 | [3174-clear-digits](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/3174-clear-digits) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
+| [0115-distinct-subsequences](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 ## Matrix
 |  |
 | ------- |
