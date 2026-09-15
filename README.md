@@ -117,14 +117,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Enumeration
 |  |
@@ -143,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
