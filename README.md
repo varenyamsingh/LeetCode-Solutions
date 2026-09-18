@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/0071-simplify-path) |
+| [0094-binary-tree-inorder-traversal](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [3174-clear-digits](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/3174-clear-digits) |
 ## Recursion
@@ -120,16 +121,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Enumeration
