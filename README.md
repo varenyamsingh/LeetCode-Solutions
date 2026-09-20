@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3174-clear-digits](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/3174-clear-digits) |
+| [3498-reverse-degree-of-a-string](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## String
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 | [2942-find-words-containing-character](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
 | [3174-clear-digits](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/3174-clear-digits) |
+| [3498-reverse-degree-of-a-string](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Database
 |  |
 | ------- |
