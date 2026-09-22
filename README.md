@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0049-group-anagrams](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Sorting
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0115-distinct-subsequences](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
