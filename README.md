@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/0071-simplify-path) |
 | [0115-distinct-subsequences](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0409-longest-palindrome](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
+| [1096-brace-expansion-ii](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [2942-find-words-containing-character](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
 | [3174-clear-digits](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0409-longest-palindrome](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
+| [1096-brace-expansion-ii](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3483-unique-3-digit-even-numbers](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [1096-brace-expansion-ii](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 ## Quicksort
 |  |
 | ------- |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [1096-brace-expansion-ii](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [3174-clear-digits](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/3174-clear-digits) |
 ## Recursion
 |  |
@@ -185,4 +189,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/varenyamsingh/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
